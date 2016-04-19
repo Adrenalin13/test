@@ -1,2 +1,2 @@
 <?
-echo "Hello PHP!";
+echo "Hello PHP1234!";
